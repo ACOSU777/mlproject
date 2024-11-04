@@ -1,0 +1,5 @@
+In Visual Studio Code, you can use the following shortcut to open the Command Palette and select a Jupyter kernel:
+
+Press Ctrl + Shift + P (or Cmd + Shift + P on macOS) to open the Command Palette.
+Type Notebook: Select Notebook Kernel and select it from the list. This will open the Kernel Picker where you can choose your preferred kernel for the Jupyter notebook.
+Alternatively, if you are in a Jupyter notebook, you can click the Kernel Picker button in the top-right corner to select or change the kernel directly
